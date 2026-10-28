@@ -1,0 +1,93 @@
+{
+  "per_sample": {
+    "000": {
+      "clipiqa": 0.1969,
+      "niqe": 4.6979,
+      "musiq": 53.5349,
+      "dover_aesthetic": 98.9055,
+      "dover_technical": 8.1251,
+      "dover_overall": 56.8126
+    },
+    "001": {
+      "clipiqa": 0.3604,
+      "niqe": 4.3353,
+      "musiq": 58.945,
+      "dover_aesthetic": 99.2134,
+      "dover_technical": 6.3277,
+      "dover_overall": 55.9631
+    },
+    "002": {
+      "clipiqa": 0.4452,
+      "niqe": 4.182,
+      "musiq": 70.0998,
+      "dover_aesthetic": 98.9525,
+      "dover_technical": 8.3011,
+      "dover_overall": 57.5843
+    },
+    "003": {
+      "clipiqa": 0.5445,
+      "niqe": 3.5401,
+      "musiq": 62.839,
+      "dover_aesthetic": 95.9761,
+      "dover_technical": 13.302,
+      "dover_overall": 52.2871
+    },
+    "004": {
+      "clipiqa": 0.3846,
+      "niqe": 3.8459,
+      "musiq": 59.4024,
+      "dover_aesthetic": 99.442,
+      "dover_technical": 11.9485,
+      "dover_overall": 69.0002
+    },
+    "005": {
+      "clipiqa": 0.1973,
+      "niqe": 7.0233,
+      "musiq": 48.2391,
+      "dover_aesthetic": 99.3746,
+      "dover_technical": 6.2078,
+      "dover_overall": 57.8637
+    },
+    "006": {
+      "clipiqa": 0.5373,
+      "niqe": 4.0414,
+      "musiq": 58.7084,
+      "dover_aesthetic": 99.2323,
+      "dover_technical": 9.7326,
+      "dover_overall": 63.0556
+    },
+    "007": {
+      "clipiqa": 0.6708,
+      "niqe": 3.2496,
+      "musiq": 68.2524,
+      "dover_aesthetic": 98.5401,
+      "dover_technical": 11.0051,
+      "dover_overall": 59.0288
+    },
+    "008": {
+      "clipiqa": 0.276,
+      "niqe": 4.2886,
+      "musiq": 59.0086,
+      "dover_aesthetic": 99.0618,
+      "dover_technical": 11.3654,
+      "dover_overall": 63.6829
+    },
+    "009": {
+      "clipiqa": 0.5987,
+      "niqe": 4.4543,
+      "musiq": 69.0997,
+      "dover_aesthetic": 95.5617,
+      "dover_technical": 12.3308,
+      "dover_overall": 49.9649
+    }
+  },
+  "average": {
+    "clipiqa": 0.4212,
+    "niqe": 4.3658,
+    "musiq": 60.8129,
+    "dover_aesthetic": 98.426,
+    "dover_technical": 9.8646,
+    "dover_overall": 58.5243
+  },
+  "count": 10
+}
